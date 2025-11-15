@@ -31,8 +31,4 @@ This project was built to improve ASP.NET MVC, Entity Framework, Repository Patt
 
 ---
 
-## 📸 Screenshots (Optional)
-
-> Add screenshots here after hosting or taking UI snapshots.  
-Example:
 
